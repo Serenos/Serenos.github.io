@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+title: NuInsSet dataset
+description: 于是我们在nuScenes数据集的基础上，我们补充了图像的实例分割标注，并称之为nuInsSeg。希望nuInsSeg可以帮助研究人员对大规模自动驾驶场景进行更好的研究，特别是从多模态传感器融合的角度。
